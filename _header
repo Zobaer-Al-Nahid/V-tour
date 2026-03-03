@@ -1,0 +1,3 @@
+/*
+  X-Frame-Options: ALLOW-FROM https://taylorshostel.webflow.io
+  Content-Security-Policy: frame-ancestors 'self' https://taylorshostel.webflow.io
